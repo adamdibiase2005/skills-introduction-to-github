@@ -1,5 +1,4 @@
 ## Mission Statement
-Mission Statement
 
 My mission is to build a strong foundation in GitHub, version control, and professional software development practices. Through this project, I am learning how to organize code, document my work clearly, and use GitHub as a tool to collaborate, track progress, and present projects professionally.
 
